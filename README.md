@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://nishantmaithil.github.io/Personal-website/)
 <h1 align="center">Hi 👋, I'm Nishant Maithil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantmaithil&label=Profile%20views&color=0e75b6&style=flat" alt="nishantmaithil" /> </p>
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/maithilnishant" target="blank"><img src="https://img.shields.io/twitter/follow/maithilnishant?logo=twitter&style=for-the-badge" alt="maithilnishant" /></a> </p>
 
-- 🌱 I’m currently learning **React, MongoDB, REST API**
+- 🌱 I’m currently learning **React, Express, MongoDB, REST API**
 
 - 📝 I regularly write articles on [nishantmaithil.blogspot.com](nishantmaithil.blogspot.com)
 
@@ -22,7 +22,7 @@
 <a href="https://twitter.com/maithilnishant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maithilnishant" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishant-maithil-978416232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-maithil-978416232" height="30" width="40" /></a>
 <a href="https://instagram.com/nishantmaithil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishantmaithil" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nishantmaithil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nishantmaithil" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nishumaithil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nishantmaithil" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/12116456_nishant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="12116456_nishant" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nishant_maithil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishant_maithil/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nishantmaithil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nishantmaithil" height="30" width="40" /></a>
